@@ -1,3 +1,3 @@
-# ArchitectureExample
+Learn Composable Architecture
 
-A description of this package.
+Xcode 14.3, Swift 5.8
